@@ -1,4 +1,4 @@
-.body_backgorund {
+.body_background {
     background-image: url("bg1.jpg");
     background-position: center;
     background-size: cover;
@@ -18,19 +18,11 @@
       border-style:ridge;
   }
 
-  button {
-    background-color: #4CAF50;
-    border: none;
-    color: white;
-    padding: 10px 42px;
-    font-size: 16px;
-  }
-
   input
   {
     margin-right: 20px;
   }
-  #rcw 
+  #row 
   {
     background-color: #4CAF50;
   }
