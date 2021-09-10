@@ -93,5 +93,5 @@ function my_mousemove(e){
         
     } 
     last_pos_x=current_pos_mouse_x;
-    last_pos_y=current_pos_mouse_x;
+    last_pos_y=current_pos_mouse_y;
 }
